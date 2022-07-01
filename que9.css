@@ -1,0 +1,9 @@
+.bg{
+    background-color: rgb(87, 42, 165);
+}
+.clock{
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
